@@ -1,0 +1,14 @@
+{
+  "name": "vey-demo",
+  "version": "1.0.0",
+  "description": "Vey Demo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vey": "~0.0.1"
+  },
+  "author": "Crafity",
+  "license": "BSD-3-Clause"
+}
